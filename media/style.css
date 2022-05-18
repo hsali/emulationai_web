@@ -287,7 +287,7 @@ input, select, audio, canvas, iframe, img, svg, video {
 .breadcrumbs {
     position: relative;
     height: 480px;
-    background-image: url(../img/breadcrumb-bg.jpg);
+    background-image: url(../media/breadcrumb-bg.jpg);
     background-size: cover;
     background-position: center center;
     z-index: 1
@@ -948,7 +948,7 @@ header {
 .hero-area {
     position: relative;
     height: 100vh;
-    background-image: url(../img/bg.png);
+    background-image: url(../media/bg.png);
     background-size: cover;
     background-position: top left;
     background-color: #191a1c;
@@ -1648,7 +1648,7 @@ header {
 
 .features-area {
     padding: 90px 0;
-    background-image: url(../img/feature-bg.png);
+    background-image: url(../media/feature-bg.png);
     background-size: cover;
     background-position: center center;
     background-color: #191a1c
@@ -2526,7 +2526,7 @@ header {
     padding: 60px 80px;
     border-radius: 10px;
     background-color: #1a191d;
-    background-image: url(../img/subscribe-bg.png);
+    background-image: url(../media/subscribe-bg.png);
     background-size: cover;
     background-position: center center
 }
@@ -2634,7 +2634,7 @@ footer {
     position: relative;
     padding-top: 100px;
     margin-top: -100px;
-    background-image: url(../img/footer-bg.png);
+    background-image: url(../media/footer-bg.png);
     background-size: cover;
     background-position: center center;
     background-color: #191a1c
@@ -2981,7 +2981,7 @@ footer.error {
 }
 
 .creasoft-wrap.layout2 {
-    background-image: url(../img/black-concrete-textured.png);
+    background-image: url(../media/black-concrete-textured.png);
     background-repeat: repeat;
     background-color: #000
 }
@@ -3325,7 +3325,7 @@ footer.error {
 }
 
 .back-to-home {
-    background-image: url(../img/error-bg.png);
+    background-image: url(../media/error-bg.png);
     background-size: cover;
     background-position: top left
 }
@@ -3686,7 +3686,7 @@ footer.error {
     padding: 100px 20px;
     background-color: #17161a;
     border-radius: 10px;
-    background-image: url(../img/widget-content-bg.png);
+    background-image: url(../media/widget-content-bg.png);
     background-size: cover;
     background-position: center center
 }
